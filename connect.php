@@ -3,9 +3,9 @@
 
 // Login Credentials
 $servername = "localhost";
-$username = "root";
-$password = "ZQMgH1SFiWal";
-$dbname = "EsportsEncyclopedia";
+$username = "";
+$password = "";
+$dbname = "";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
